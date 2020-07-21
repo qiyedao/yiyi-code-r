@@ -2,6 +2,7 @@
   "name": "yiyi-code-r",
   "version": "1.0.10",
   "description": "",
+  "repository": "https://github.com/1710797241/yiyi-code-r.git",
   "main": "index.js",
   "bin": {
     "yiyiCode": "bin/index.js"
