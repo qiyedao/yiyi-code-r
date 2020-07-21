@@ -1,0 +1,62 @@
+{
+    "moduleName":[
+        {
+            "key":"demo",
+            "desc":"示例"
+         },{
+            "key":"index",
+            "desc":"首页"
+         }
+
+    ],
+    "module": {
+        "demo": {
+            "key": "demo",
+            "desc": "示例",
+            "tableColums": [
+                {
+                    "title": "姓名",
+                    "key": "name"
+                },
+                {
+                    "title": "年龄",
+                    "key": "age"
+                },
+                {
+                    "title": "地址",
+                    "key": "address"
+                }
+            ],
+            "request": {
+                "getURL": "/apiiihello",
+                "postURL": "/apiiihello",
+                "putURL": "/apiiihello",
+                "deleteURL": "/apiiihello"
+            }
+        },
+        "index": {
+            "key": "index",
+            "desc": "首页",
+            "tableColums": [
+                {
+                    "title": "姓名",
+                    "key": "name"
+                },
+                {
+                    "title": "年龄",
+                    "key": "age"
+                },
+                {
+                    "title": "地址",
+                    "key": "address"
+                }
+            ],
+            "request": {
+                "getURL": "/apiiihello",
+                "postURL": "/apiiihello",
+                "putURL": "/apiiihello",
+                "deleteURL": "/apiiihello"
+            }
+        }
+    }
+}
