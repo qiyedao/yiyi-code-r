@@ -20,7 +20,7 @@
     "antd": "^3.25.2",
     "antd-mobile": "^2.3.3",
     "autoprefixer": "^9.7.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "braft-editor": "^2.3.9",
     "braft-finder": "0.0.21",
     "braft-utils": "^3.0.12",
